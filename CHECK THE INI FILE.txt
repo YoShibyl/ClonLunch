@@ -1,0 +1,3 @@
+Please make sure to set the path to Clone Hero.exe in the ClonLunch.ini file!
+
+PRO TIP: Drag and drop a chart's folder onto ClonLunch.py to preview that chart directly.
